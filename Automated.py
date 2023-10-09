@@ -6,7 +6,6 @@ import numpy as np
 import PIL
 import openai
 import pyperclip
-import pyautogui
 import time
 from PIL import Image
 
