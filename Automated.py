@@ -52,7 +52,7 @@ while True:
 
             if alpha.isalpha() == True:
                 msg += alpha
-            if alpha == " ":
+            elif alpha == " ":
                 msg += " "
             else:
                 notmsg += alpha
