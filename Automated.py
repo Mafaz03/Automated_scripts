@@ -49,8 +49,7 @@ while True:
     for detection in result: 
         text = detection[1] 
         for alpha in text:
-            # if alpha == "\n":
-            #     msg += " "
+
             if alpha.isalpha() == True:
                 msg += alpha
             if alpha == " ":
