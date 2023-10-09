@@ -3,7 +3,6 @@ import easyocr
 import pyautogui
 import numpy as np
 
-import PIL
 import openai
 import pyperclip
 import time
